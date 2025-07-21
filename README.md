@@ -1,6 +1,8 @@
-# 🚀 HTML Projects Showcase
+# 🌐 Basic HTML Website Project
 
-Welcome to the HTML Projects Repository! This README provides an overview of several creative HTML projects. Perfect for beginners and those looking to enhance their web development skills.
+This is a **static website project** built entirely with **HTML5**, optionally styled with **CSS3** and enhanced with **JavaScript** for interactivity. The project demonstrates the foundational structure and elements of a modern web page, ideal for learning or showcasing front-end design skills.
+
+
 
 ---
 
@@ -51,8 +53,6 @@ A college website layout showcasing sections for about, courses, and contact det
 2. **Choose** a project to start with and create your own `.html` file.
 3. **Customize** the content and styles to fit your needs.
 
----
 
-> **Made with ❤️ for learning and sharing!**
 
 ---
